@@ -1,0 +1,7 @@
+.venv
+__DS_Store
+trusted-network.txt
+.idea
+__pycache__
+/data/
+/output/
